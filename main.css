@@ -1,0 +1,114 @@
+element.style {
+}
+:root {
+    --vId-e69de263-f916-4075-92ca-73e1f2e0f319: #594df4ff;
+    --vId-d885bfbb-ea9e-4061-8afc-ffea322fa5b3: #FAEA73;
+    --vId-71ac95f9-3b7d-4176-b5a6-70f2656e6a89: #CCEFF6;
+    --vId-8a98e815-27aa-4e2d-8165-029aa48d287f: #F7CEDC;
+    --vId-36362f4d-dc2e-40fc-9333-e2ea72274e34: #fff9f3;
+    --vId-a325e0c5-28f3-495d-8fba-6d52f7bd1aeb: #111;
+}
+:root {
+    --cdhs-delay: 0ms;
+    --cdhs-easing: var(--cdhs-ease-out);
+    --cdhs-duration: 600ms;
+    --cdhs-ease-in: cubic-bezier(0.4,0,1,1);
+    --cdhs-ease-in-out: cubic-bezier(0.4,0,0.2,1);
+    --cdhs-ease-out: cubic-bezier(0,0,0.2,1);
+    --cdhs-ease-out-back: cubic-bezier(0.34,1.56,0.64,1);
+    --cdhs-opacity: 1;
+    --cdhs-translate-y: 0;
+    --cdhs-translate-x: 0;
+    --cdhs-scale: 1;
+    --cdhs-rotate: 0deg;
+    --cdhs-perspective: 0;
+    --cdhs-rotate-x: 0deg;
+    --cdhs-rotate-y: 0deg;
+    --cdhs-skew-x: 0deg;
+    --cdhs-skew-y: 0deg;
+    --cdhs-translate-ratio: 1;
+    --cdhs-scale-ratio: 0.2;
+    --cdhs-duration-ratio: 1;
+    --cdhs-translate-x-amount: 2rem;
+    --cdhs-translate-y-amount: 3rem;
+    --cdhs-flip-x-amount: 100deg;
+    --cdhs-flip-y-amount: -100deg;
+    --cdhs-perspective-amount: 2000px;
+    --cdhs-stagger-amount: 100ms;
+    --cdhs-skew-amount: 20deg;
+    --cdhs-reveal-amount: 100%;
+    --cdhs-blur: 0;
+    --cdhs-blur-amount: 5px;
+}
+:root {
+    --_gc: 102, 93, 192;
+}
+:root {
+    --toastify-color-light: #fff;
+    --toastify-color-dark: #121212;
+    --toastify-color-info: #3498db;
+    --toastify-color-success: #07bc0c;
+    --toastify-color-warning: #f1c40f;
+    --toastify-color-error: #e74c3c;
+    --toastify-color-transparent: hsla(0, 0%, 100%, 0.7);
+    --toastify-icon-color-info: var(--toastify-color-info);
+    --toastify-icon-color-success: var(--toastify-color-success);
+    --toastify-icon-color-warning: var(--toastify-color-warning);
+    --toastify-icon-color-error: var(--toastify-color-error);
+    --toastify-toast-width: 320px;
+    --toastify-toast-background: #fff;
+    --toastify-toast-min-height: 64px;
+    --toastify-toast-max-height: 800px;
+    --toastify-font-family: sans-serif;
+    --toastify-z-index: 9999;
+    --toastify-text-color-light: #757575;
+    --toastify-text-color-dark: #fff;
+    --toastify-text-color-info: #fff;
+    --toastify-text-color-success: #fff;
+    --toastify-text-color-warning: #fff;
+    --toastify-text-color-error: #fff;
+    --toastify-spinner-color: #616161;
+    --toastify-spinner-color-empty-area: #e0e0e0;
+    --toastify-color-progress-light: linear-gradient(90deg, #4cd964, #5ac8fa, #007aff, #34aadc, #5856d6, #ff2d55);
+    --toastify-color-progress-dark: #bb86fc;
+    --toastify-color-progress-info: var(--toastify-color-info);
+    --toastify-color-progress-success: var(--toastify-color-success);
+    --toastify-color-progress-warning: var(--toastify-color-warning);
+    --toastify-color-progress-error: var(--toastify-color-error);
+}
+injected stylesheet
+:host, :root {
+    --rem: 16;
+}
+body, html {
+    height: 100%;
+    font-size: 16px;
+}
+html {
+    scroll-behavior: smooth;
+}
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+:root {
+    view-transition-name: root;
+}
+user agent stylesheet
+html {
+    display: block;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
